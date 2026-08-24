@@ -1,0 +1,21 @@
+{
+    "next_id": 3,
+    "residents": {
+        "R001": {
+            "name": "lucky",
+            "phone": "09060"
+        },
+        "R002": {
+            "name": "abel",
+            "phone": "0906088"
+        }
+    },
+    "payments": [
+        {
+            "resident_id": "R001",
+            "month": "June",
+            "amount": 5000.0,
+            "date": "2026-08-24 20:43:43"
+        }
+    ]
+}
