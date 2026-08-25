@@ -136,10 +136,3 @@ Run:
     python main.py
 
 
-REQUIREMENTS
-------------
-
-Python 3 is required.
-
-No external Python packages are required.
-
